@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "js/index.js",
-  "homepage": "https://Androborn.github.io/WebHiveTeam_goit-fs-39_HTML-CSS_final-project",
+  "homepage": "https://Zolotarova-Nataliia.github.io/3DFREEDOM-project",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/*.html --public-url /WebHiveTeam_goit-fs-39_HTML-CSS_final-project/"
+    "build": "parcel build src/*.html --public-url /3DFREEDOM-project/"
   },
   "repository": {
     "type": "git",
