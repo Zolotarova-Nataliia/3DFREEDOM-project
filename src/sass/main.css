@@ -2491,34 +2491,7 @@ body {
   box-shadow: 20px 20px 80px rgba(0, 0, 0, 0.3);
 }
 
-.hero__ancor-gide--arrow {
-  display: none;
-  fill: #5c98d2;
-}
 
-@media screen and (min-width: 768px) {
-  .hero__ancor-gide--arrow {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 16px;
-    width: 16px;
-    display: block;
-    position: absolute;
-    bottom: 62px;
-    left: 75px;
-  }
-}
-
-@media screen and (min-width: 1440px) {
-  .hero__ancor-gide--arrow {
-    display: inherit;
-    height: 32px;
-    width: 32px;
-    bottom: 40px;
-    left: 43px;
-  }
-}
 
 .hero__section-description {
   font-family: 'CaviarDreams';

@@ -93,28 +93,6 @@
   }
 }
 
-.hero__ancor-gide--arrow {
-  display: none;
-  fill: $accent-color;
-
-  @media screen and (min-width: 768px) {
-    height: 16px;
-    width: 16px;
-    display: block;
-    position: absolute;
-    bottom: 56px;
-    left: 69px;
-  }
-
-  @media screen and (min-width: 1440px) {
-    display: inherit;
-    height: 32px;
-    width: 32px;
-    bottom: 40px;
-    left: 43px;
-  }
-}
-
 .hero__section-description {
   font-family: 'CaviarDreams';
   font-weight: 400;
